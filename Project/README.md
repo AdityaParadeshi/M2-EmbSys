@@ -35,5 +35,10 @@
 
 ## Block Diagram Of Subsystem
 
+## Power Supply
+![Power supply](https://user-images.githubusercontent.com/82751022/154840639-2294ade3-216f-461d-88f8-3651f7df7df1.png)
+
+
+
 
 
