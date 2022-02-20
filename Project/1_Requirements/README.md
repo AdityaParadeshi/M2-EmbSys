@@ -30,6 +30,14 @@
 - Low Power factor leads to increase in cable size.
 - Reactive Power will be absorbed more.
 
+# 4W's And 1H
+
+- who: This Automatic Power Factor Correction System is used by Consumers , Distributers , who use the Electrical Equipments.
+- What: This Automatic Power Factor Correction System is the pannel used to correct the Power factor and reduce Harmonics.
+- When: This Automatic Power Factor Correction System is used when there is lag in the power factor of existing system.
+- Where: This Automatic Power Factor Correction System is used in Residential, Commercial and Industrial Loads.
+- How: This Automatic Power Factor Correction System can bs used by installing the pannel with the capacitor banks with combination of zcd and relays.
+
 # Requirements
 
 ## High level requirements:
