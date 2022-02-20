@@ -31,4 +31,9 @@
 
 # Block Diagram of Automatic Power Factor Correction
 
+![pfc](https://user-images.githubusercontent.com/82751022/154840565-405ac6e4-475c-43a1-aa9f-7f5c192d89c2.png)
+
+## Block Diagram Of Subsystem
+
+
 
