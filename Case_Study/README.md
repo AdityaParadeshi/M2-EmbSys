@@ -1,4 +1,4 @@
-# Samll Level Case Study
+# Small Level Case Study
 
 ## Block Diagram Of Tachometer
 
