@@ -1,47 +1,51 @@
 # Introduction:
 
-- Power factor is a measure of how effectively you are using electricity.
-- It is the ratio between the Actual to Apparent Power.
-- There are three types of load :-
-- 1 Inductive Load.
-- 2 Capacitive load.
-- 3 Resistive load.
-- An inductive load, like a motor, compressor or ballast, also requires Reactive Power to generate and sustain a magnetic field in order to operate. Which leads to the            low power factor.
-- Improving the PF can maximize current-carrying capacity, improve voltage to equipment, reduce power losses, and lower electric bills.
-- The simplest way to improve power factor is to add PF correction capacitors to the electrical system.
-
+- Automation is control of the electrical or electronic device within area or remotely.
+- It is Automation of housework or household activities.
+- The automation system in residential projects refers to an integrated system in which a very minimum human intervention is required.
+- A  automation system usually connects controlled devices to a central hub or gateway. 
+- As there is an increase in smart house there are very intresting technology including in the system.
+- One of the biggest advantages of home automation is that it keeps your abode safe, and prevents accidental fires, water leaks, gas leaks, and other disasters.
+- This is one of the most marketed benefits of smart home systems. Feeling lazy to get up and switch off the lights in all rooms? No worries, with just a few taps on your mobile, you can switch on/off lights and other appliances around the place.
+- Smart homes also help you in saving money. Your energy bills are reduced as you can remotely turn off devices, that you aren’t using. This is a huge convenience, and you have complete control of household appliances and devices, without any extra effort.
+-  Home automation has high potential for sharing data between family members or trusted individuals for personal security and could lead to energy saving measures with a positive environmental impact in the future.   
+- Examples:- temprature control, light control, fan control, refridgerator control, washing machine control etc.
+- 
 # Swot Analysis
 ## Strengths
-- Power Factor will be improved.
-- Harmonics will be reduced.
-- Electricity bill will be reduced.
+- Effecient and Intelligent energy saving Techniques.
+- System cam be controlled within the area and  remotely
+- Safety and Security will be increased.
+- Single Protocol.
+- Support for Effecient operation.
 
 ## Weakness
-- Appropriate Capacitor Banks must be selected.
-- Continuous Monitor of Load.
-- Less use of Inductive loads.
+- cost of system may be increased
+- Replacement of devices will be difficult
+- complex system
 
 ## opportunities
 - Advancement in Technology.
-- Improvements in the correction system.
+- Infrastructure Management.
 
 ## Threats
-- Failure in Capacitor bank leads to lag in power factor.
-- Low Power factor leads to increase in cable size.
-- Reactive Power will be absorbed more.
+- Targated Attacks
+- Short lifespan of Device
+- Data Manipulation
+- Identity Theft
 
 # 4W's And 1H
 
 ## Who: 
-- This Automatic Power Factor Correction System is used by Consumers , Distributers , who use the Electrical Equipments.
+- This system is used by consumers for automizing their home.
 ## What: 
-- This Automatic Power Factor Correction System is the pannel used to correct the Power factor and reduce Harmonics.
+- This is an automated system ysed for controlling the electrical and electronic devices
 ## When: 
-- This Automatic Power Factor Correction System is used when there is lag in the power factor of existing system.
+- This system can be used whenever there is the need of automation
 ## Where: 
-- This Automatic Power Factor Correction System is used in Residential, Commercial and Industrial Loads.
+- This System can be used in Residential, Commercial and Industrial buildings
 ## How: 
-- This Automatic Power Factor Correction System can bs used by installing the pannel with the capacitor banks with combination of zcd and relays.
+- This system is human machine interface can be used manually or automatically through app or the remote control
 
 # Requirements
 
@@ -49,7 +53,7 @@
 
 |RID	|DESCRIPTION |
 |---- |----|
-|HLR1	|Power factor improvement |
+|HLR1	|Home shall be Automated |
 |HLR2	|Harmonics must be reduced |
 |HLR3	|Reduction in KVAR demand |
 |HLR4	|Reduction of electricity bill |
