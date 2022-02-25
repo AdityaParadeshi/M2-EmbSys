@@ -118,6 +118,10 @@
 ## Voltage Regulator: 
 As we Know that the output of the rectifier is a Pulsating dc so voltage regulator is used to make the pulsating dc voltage to constant dc voltage.
 
+## UML Diagram
+![uml](https://user-images.githubusercontent.com/82751022/155767102-0a5acc5d-6862-4eec-b426-493969e143a9.png)
+
+
 
 
 
