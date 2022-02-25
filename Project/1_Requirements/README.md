@@ -54,17 +54,20 @@
 |RID	|DESCRIPTION |
 |---- |----|
 |HLR1	|Home shall be Automated |
-|HLR2	|Harmonics must be reduced |
-|HLR3	|Reduction in KVAR demand |
-|HLR4	|Reduction of electricity bill |
+|HLR2	|System shall sense the thing  through IR sensor |
+|HLR3	|System shall sense the flame |
+|HLR4	|System shall sense the environmental changes |
+|HLR5 |System shall sense the temprature |
 
 ## Low Level Requirement:
 
 |RID	|DESCRIPTION |
 |---- |----|
-|LLR1	|Selection of appropriate Capacitive Banks |
-|LLR2	|Inductive loads must be reduced |
-|LLR3	|Continuous monitor of  load |
+|LLR1	|Microcontroller shall be used for automation |
+|LLR2	|Buzzer shall be turned on if IR sensor detects |
+|LLR3	|led shall turned on if temprature is sensed |
+|LLR4	|servo shall run if earthquake sensor detects |
+|LLR3	|Dc fan shall turned on/off if temprature is sensed |
 
 
 
