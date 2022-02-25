@@ -1,5 +1,23 @@
 # Smart Home Automation System
 
+# Table Of Content:
+- 1. About Smart Automation System
+-   1.1 Abstract
+-   1.2 Introduction
+-   1.3 Swot Analysis
+-   1.4 4w's and 1H
+- 2. Requirements
+-   2.1 High level requirements
+-   2.2 Low level requirements
+- 3. Block Diagram
+-   3.1 Explaination on blocks
+-   3.2 Sub System and its explaination
+- 4. Architecture
+-   4.1 UML Diagram
+
+# Abstract
+- With advancement of technology things are becoming simpler and easier for us. Automation is the use of control systems and information technologies to reduce the need for human work in the production of goods and services. In the scope of industrialization, automation is a step beyond mechanization. Whereas mechanization provided human operators with machinery to assist them with the muscular requirements of work, automation greatly decreases the need for human sensory and mental requirements as well. Automation plays an increasingly important role in the world economy and in daily experience. Automatic systems are being preferred over manual system. Through this project we have tried to show automatic control of a house as a result of which power is saved to some extent.
+
 # Introduction:
 
 - Automation is control of the electrical or electronic device within area or remotely.
@@ -118,8 +136,35 @@
 ## Voltage Regulator: 
 As we Know that the output of the rectifier is a Pulsating dc so voltage regulator is used to make the pulsating dc voltage to constant dc voltage.
 
+# Architecture
+
 ## UML Diagram
 ![uml](https://user-images.githubusercontent.com/82751022/155767102-0a5acc5d-6862-4eec-b426-493969e143a9.png)
+
+# Advantages And Disadvantages
+
+## Advantages
+- Easy to use
+- Remote operation is possible
+- Safety and Security is increased
+- Provides facility to monitor and control multiple devices
+
+## Disadvantages
+- Installiation is costly
+- Works only when the object or user is in the range of sensor
+- Continuous Power supply is required
+
+# Applications
+- Lightening Systems.
+- Lawn/Gardening management.
+- Smart Home Appliances.
+- Improved Home safety and security.
+- Home air quality and water quality monitoring.
+- Natural Language-based voice assistants.
+- Better Infotainment delivery.
+- Lighting control.
+
+
 
 
 
