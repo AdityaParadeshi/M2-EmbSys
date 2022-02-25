@@ -73,7 +73,35 @@
 
 # Block Diagram of Smart Home Automation System
 
-![pfc](https://user-images.githubusercontent.com/82751022/154841999-ff9c54fe-7b39-4453-9b0b-be28609ca92a.png)
+![home automation](https://user-images.githubusercontent.com/82751022/155759974-2fd7989c-27b4-43df-9a7d-333f9a866352.png)
+
+## Microcontroller:
+- It is the Heart of the embedded system.
+- It does majority of the work starting from taking the data or instructions in, processing it according the program written and finally provide the output to complete the required function.
+
+## IR Sensor
+- An infrared (IR) sensor is an electronic device that measures and detects infrared radiation in its surrounding environment.
+- The basic concept of an Infrared Sensor which is used as Obstacle detector is to transmit an infrared signal, this infrared signal bounces from the surface of an object and the signal is received at the infrared receiver.
+
+## Flame Sensor
+- Flame Detector module is representative of the many similar devices that are designed to interface with micro-controllers. This particular device consists of an IR detector, op amp circuitry, sensitivity adjustment and an LED indicator.
+
+## Earthquake Sensor
+- An earthquake is an unavoidable and unpredictable natural phenomenon that often causes damage to lives and property. We cannot fight it but we can stay alert and aware using technology that can protect us and the industry. Here a simple earthquake indicator for home and industry  and a highly-sensitive accelerometer is presented that can indicate vibrations.
+
+## Temprature Sensor
+- Temprature sensor is used to detect the temprature around the surroundings and perform its operation.
+
+## Servo Motor (Actuator)
+- A servo motor is an electrical device which can push or rotate an object with great precision. If you want to rotate and object at some specific angles or distance, then you use servo motor. It is just made up of simple motor which run through servo mechanism.
+
+## Buzzer
+- an electrical device that makes a buzzing noise and is used for signalling.
+
+## Dc Motor With Fan
+- Dc Motor is the device which converts Electrical energy in Mechenical energy connected with the fan. the fan turns on/off based on the temprature sensed in environment.
+
+
 
 
 
@@ -90,38 +118,6 @@
 ## Voltage Regulator: 
 As we Know that the output of the rectifier is a Pulsating dc so voltage regulator is used to make the pulsating dc voltage to constant dc voltage.
 
-## Current Transformer:
-- In an electrical circuit, currents is measured by using a C T at point when current is exceptionally high to straightforwardly apply to measuring instruments, the C T creates a decreased current, that can be suitably connected with measuring and recording instruments.
-- CT is also used as a Protection Purpose.
-
-## Potential Transformer:
-- They convert A.C from one level to another voltage level along with some loss of power.
-- Potential Transformers output is usually used for measuring and also various monitoring purposes.
-
-
-
-
-## Microcontroller:
-- It is the Heart of the embedded system.
-- It does majority of the work starting from taking the data or instructions in, processing it according the program written and finally provide the output to complete the required function.
-
-## Zero Crossing Detector:
-- Zero crossing detector is a voltage comparator that changes the o/p between +Vsat & –Vsat when the I/p crosses zero reference voltage.
-- the comparator is a basic operational amplifier used to compare two voltages simultaneously and changes the o/p according to the comparison. In the same way, we can say ZCD is a comparator.
-
-## Relay:
-- These controls relay has automatic and manual function with capability to switch every individual capacitor stage on or off.
-- automatic identification of voltage & current source.
-
-## Driver: 
-- It is used to drive the relay with required current.
-
-## Static Capacitor Banks:
-- Static capacitor can produce reactive power and production of reactive power can be managed in regulated orders. Static Capacitors are usefully used to control level of voltage applied to customers by reducing or eliminating drop in voltage in system caused by inductive loads.
-
-## Display:
-- An embedded system communicates directly to a human being by use of input and output devices.
-- The Status of the Power factor is displayed in the display by the microcontroller.
 
 
 
