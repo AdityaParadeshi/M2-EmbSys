@@ -10,7 +10,7 @@
 - Smart homes also help you in saving money. Your energy bills are reduced as you can remotely turn off devices, that you aren’t using. This is a huge convenience, and you have complete control of household appliances and devices, without any extra effort.
 -  Home automation has high potential for sharing data between family members or trusted individuals for personal security and could lead to energy saving measures with a positive environmental impact in the future.   
 - Examples:- temprature control, light control, fan control, refridgerator control, washing machine control etc.
-- 
+
 # Swot Analysis
 ## Strengths
 - Effecient and Intelligent energy saving Techniques.
