@@ -14,6 +14,12 @@
 -   3.2 Sub System and its explaination
 - 4. Architecture
 -   4.1 UML Diagram
+-   4.2 Use case Structural Diagram
+-   4.3 Flow Chart
+- 5. Advantages And Disadvantages
+-   5.1 Advantages
+-   5.2 Disadvantages
+- 6. Applications
 
 # Abstract
 - With advancement of technology things are becoming simpler and easier for us. Automation is the use of control systems and information technologies to reduce the need for human work in the production of goods and services. In the scope of industrialization, automation is a step beyond mechanization. Whereas mechanization provided human operators with machinery to assist them with the muscular requirements of work, automation greatly decreases the need for human sensory and mental requirements as well. Automation plays an increasingly important role in the world economy and in daily experience. Automatic systems are being preferred over manual system. Through this project we have tried to show automatic control of a house as a result of which power is saved to some extent.
@@ -140,6 +146,14 @@ As we Know that the output of the rectifier is a Pulsating dc so voltage regulat
 
 ## UML Diagram
 ![uml](https://user-images.githubusercontent.com/82751022/155767102-0a5acc5d-6862-4eec-b426-493969e143a9.png)
+
+## Use Case Structural Diagram
+![use case structure](https://user-images.githubusercontent.com/82751022/155834194-66bffb5e-c48e-42e2-b609-7483dad64bf7.png)
+
+## Flow Chart
+
+![complete flow](https://user-images.githubusercontent.com/82751022/155834105-ebb8f27f-505f-43ba-a218-534c154333e5.png)
+
 
 # Advantages And Disadvantages
 
