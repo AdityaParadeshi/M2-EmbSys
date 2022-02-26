@@ -4,8 +4,9 @@
 - 1. About Smart Automation System
 -   1.1 Abstract
 -   1.2 Introduction
--   1.3 Swot Analysis
--   1.4 4w's and 1H
+-   1.3 Objectives
+-   1.4 Swot Analysis
+-   1.5 4w's and 1H
 - 2. Requirements
 -   2.1 High level requirements
 -   2.2 Low level requirements
@@ -36,6 +37,10 @@
 - Smart homes also help you in saving money. Your energy bills are reduced as you can remotely turn off devices, that you aren’t using. This is a huge convenience, and you have complete control of household appliances and devices, without any extra effort.
 -  Home automation has high potential for sharing data between family members or trusted individuals for personal security and could lead to energy saving measures with a positive environmental impact in the future.   
 - Examples:- temprature control, light control, fan control, refridgerator control, washing machine control etc.
+
+# Objectives
+- to improve the quality of life and convenience in the home.
+- Different models to be designed for security purpose.
 
 # Swot Analysis
 ## Strengths
