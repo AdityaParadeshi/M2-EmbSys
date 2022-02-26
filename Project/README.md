@@ -141,9 +141,9 @@
 
 - In this Power Supply we use Step-Down transformer, Rectifier and the voltage regulator.
 ## Step-Down Transformer: 
-  - this is used to step down the incoming voltage i.e., 230V to 12V so that the upcoming components are comfortable for operation.
+  - this is used to step down the incoming voltage i.e., 230V to 5V so that the upcoming components are comfortable for operation.
 ## Rectifier: 
-- This device is used to convert the incoming 12v Ac to 12V dc (ac to dc converter).
+- This device is used to convert the incoming 5v Ac to 5V dc (ac to dc converter).
 ## Voltage Regulator: 
 As we Know that the output of the rectifier is a Pulsating dc so voltage regulator is used to make the pulsating dc voltage to constant dc voltage.
 
