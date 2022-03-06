@@ -54,9 +54,9 @@
 |RID	|DESCRIPTION |
 |---- |----|
 |HLR1	|Home shall be Automated |
-|HLR2	|System shall sense the thing  through IR sensor |
-|HLR3	|System shall sense the flame |
-|HLR4	|System shall sense the environmental changes |
+|HLR2	|System shall sense the motion |
+|HLR3	|System shall sense the smoke  |
+|HLR4	|System shall sense the environmental changes  |
 |HLR5 |System shall sense the temprature |
 
 ## Low Level Requirement:
@@ -64,11 +64,11 @@
 |RID	|DESCRIPTION |
 |---- |----|
 |LLR1	|Microcontroller shall be used for automation |
-|LLR2	|Buzzer shall be turned on if IR sensor detects |
-|LLR3	|led shall turned on if temprature is sensed |
-|LLR4	|servo shall run if earthquake sensor detects |
-|LLR3	|Dc fan shall turned on/off if temprature is sensed |
-
+|LLR2	|led shall be turned on and displayed if Motion sensor (PIR) detects |
+|LLR3	|temprature shall be displayed if temprature is sensed |
+|LLR4	|viberation value shall be displayed if earthquake sensor detects |
+|LLR5	|led shall be turned on if earthquake sensor doesnot detect |
+|LLR6	|Exhaust fan shall be turned on if smoke is detected |
 
 
 
