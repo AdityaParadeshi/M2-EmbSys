@@ -55,7 +55,7 @@
 |LLT4.2 |test for Earthquake sensor | When the Vibration sensor gives certain value |vibration=value of sensor |vibration=value of sensor |pass |
 
 
-![testingpass](https://user-images.githubusercontent.com/82751022/157089408-dad5ff07-d541-45e2-bdd8-17e44e593099.jpg)
+              ![testingpass](https://user-images.githubusercontent.com/82751022/157089408-dad5ff07-d541-45e2-bdd8-17e44e593099.jpg)
 
 
 
