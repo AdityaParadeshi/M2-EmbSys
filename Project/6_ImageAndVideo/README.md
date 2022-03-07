@@ -12,3 +12,5 @@
 ![viberation](https://user-images.githubusercontent.com/82751022/157091829-67ca4f63-aa46-4480-b519-85c24af1e82c.PNG)
 ![33vib](https://user-images.githubusercontent.com/82751022/157091929-d8017f32-a63d-4689-a52c-cdcc6ebe5201.PNG)
 
+# All Sensors On Work:
+
