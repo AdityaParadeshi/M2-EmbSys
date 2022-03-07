@@ -32,6 +32,7 @@
 |LLT2.1 |test for Temperature sensor |for the simulation Temprature sensor is replaced through the Potentiometer(when Potentiometer is at initial point) |temp=0*celcius  |temp=0*celcius |pass |
 |LLT2.2 |test for Temperature sensor |when Potentiometer is slightly varied |temp=15*celcius  |temp=15*celcius |pass |
 
+
 ## Low Level Test for Smoke Sensor 
 
 |Test id |Description |expected i/p |expected o/p |Actuall o/p |pass/fail |
@@ -52,6 +53,9 @@
 |---- |---- |---- |---- |----|----|
 |LLT4.1 |test for Earthquake sensor | When the  value of Vibration is zero |NO Vibration|NO Vibration |pass |
 |LLT4.2 |test for Earthquake sensor | When the Vibration sensor gives certain value |vibration=value of sensor |vibration=value of sensor |pass |
+
+
+![testingpass](https://user-images.githubusercontent.com/82751022/157089408-dad5ff07-d541-45e2-bdd8-17e44e593099.jpg)
 
 
 
