@@ -14,3 +14,7 @@
 
 # All Sensors On Work:
 
+
+
+https://user-images.githubusercontent.com/82751022/157106842-c92393d4-71bf-48aa-b6c8-61877b203b48.mp4
+
