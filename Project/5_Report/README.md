@@ -267,7 +267,10 @@ https://user-images.githubusercontent.com/82751022/157106842-c92393d4-71bf-48aa-
 - Industries,  Residential , Commercial Purpose
 - Smart Home Appliances.
 - safety and security, etc.
-
+## Reference
+- https://www.homemade-circuits.com/pir-sensor-datasheet-pinout-specification-working
+- https://www.signaguard.com/seismic-sensor
+- https://www.arduino.cc
 
 
 
