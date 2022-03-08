@@ -5,7 +5,9 @@
 
 ## Codiga
 
-![Code grade](https://api.codiga.io/project/31664/status/svg) ![Code grade](https://api.codiga.io/project/31664/score/svg)
+![Code grade](https://api.codiga.io/project/30954/score/svg) ![Code grade](https://api.codiga.io/project/30954/status/svg)
+
+
 
 
 # Content
