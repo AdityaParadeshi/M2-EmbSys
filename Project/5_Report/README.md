@@ -100,31 +100,51 @@
 
 
 ## Microcontroller:
+![image](https://user-images.githubusercontent.com/82751022/157259049-fadd8385-d8b1-4bd6-a5db-5b4aec2326b6.png)
+
 - It is the Heart of the embedded system.
 - It does majority of the work starting from taking the data or instructions in, processing it according the program written and finally provide the output to complete the required function.
 
 ## PIR Sensor
+![image](https://user-images.githubusercontent.com/82751022/157259274-8f8a5581-78fe-4bca-9aaa-74eb6f48f1da.png)
+
 - An Passive infrared (PIR) sensor is an electronic device that measures and detects infrared radiation in its surrounding environment.
 - In the above project the PIR sensor is used to detect the motion around the surrounding and provide the output
 
 ## Smoke Sensor
+![image](https://user-images.githubusercontent.com/82751022/157259384-defc393f-da03-4142-9203-efc970b39d2c.png)
+
 - The smoke sensor is used to detect the smoke around the surrounding and perform the necessary actions
 
 ## Earthquake Sensor
+![image](https://user-images.githubusercontent.com/82751022/157259531-754fb483-310a-4dba-abd7-ed1a1db770ff.png)
+
 - An earthquake is an unavoidable and unpredictable natural phenomenon that often causes damage to lives and property. We cannot fight it but we can stay alert and aware using technology 
 - In the above Project the earthquake sensor sense the viberation and displays the viberation values and alerts the person. 
 
 ## Temprature Sensor
+![image](https://user-images.githubusercontent.com/82751022/157259738-3eed2616-08ad-4c41-a851-011b524c0e12.png)
+
 - Temprature sensor is used to detect the temprature around the surroundings and perform its operation.
 
 ## Dc Motor (Actuator)
+![image](https://user-images.githubusercontent.com/82751022/157259883-0a1229b2-f589-4449-9955-a2962d06415c.png)
+
 - The Dc Motor is used as the exhaust  fan which turns on when the smoke is detected
 
 ## Buzzer
+![image](https://user-images.githubusercontent.com/82751022/157260009-08f9e048-2cd1-4c46-861e-73c4cc614fca.png)
+
 - an electrical device that makes a buzzing noise and is used for signalling used as an output device
 
 ## LCD Display
+![image](https://user-images.githubusercontent.com/82751022/157260137-099ff102-ae9b-46d7-aec5-7f46059909f8.png)
+
 -  LCD display is used to display the output of the sensor.
+## LED
+![image](https://user-images.githubusercontent.com/82751022/157260584-81659972-3e96-44b7-a9ba-23b7f6c59f8a.png)
+
+- Used for the indication of output.
 
 
 
@@ -134,14 +154,18 @@
 
 ## Power Supply
 
-
-
 - In this Power Supply we use Step-Down transformer, Rectifier and the voltage regulator.
 ## Step-Down Transformer: 
+![image](https://user-images.githubusercontent.com/82751022/157261078-6395d04d-8caa-4a41-86c3-7689d8a4f9a8.png)
+
   - this is used to step down the incoming voltage i.e., 230V to 5V so that the upcoming components are comfortable for operation.
 ## Rectifier: 
+![image](https://user-images.githubusercontent.com/82751022/157261261-1b951c27-dd3e-4853-b8cc-173d69800652.png)
+
 - This device is used to convert the incoming 5v Ac to 5V dc (ac to dc converter).
 ## Voltage Regulator: 
+![image](https://user-images.githubusercontent.com/82751022/157261413-98d1462d-3075-4498-9194-f6d6ce694dd4.png)
+
 As we Know that the output of the rectifier is a Pulsating dc so voltage regulator is used to make the pulsating dc voltage to constant dc voltage.
 
 # Architecture
@@ -233,29 +257,9 @@ As we Know that the output of the rectifier is a Pulsating dc so voltage regulat
 
 
 
-https://user-images.githubusercontent.com/82751022/157106842-c92393d4-71bf-48aa-b6c8-61877b203b48.mp4
+https://user-images.githubusercontent.com/82751022/157106842-c92393d4-71bf-48aa-b6c8-61877b203b48.m
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                               
-
-
-
-
-
+                                                            
 # Advantages And Disadvantages
 
 ## Advantages
@@ -276,7 +280,8 @@ https://user-images.githubusercontent.com/82751022/157106842-c92393d4-71bf-48aa-
 - https://www.homemade-circuits.com/pir-sensor-datasheet-pinout-specification-working
 - https://www.signaguard.com/seismic-sensor
 - https://www.arduino.cc
-
+ 
+ 
 
 
 
