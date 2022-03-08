@@ -2,6 +2,8 @@
 
 # Smart Home Automation System
 # Badges
+![Code grade](https://api.codiga.io/project/30954/score/svg) ![Code grade](https://api.codiga.io/project/30954/status/svg)
+
 
 
 
