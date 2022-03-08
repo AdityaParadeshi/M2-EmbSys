@@ -1,43 +1,58 @@
+
+
 # Smart Home Automation System
 
-# Table Of Content:
-- 1. About Smart Automation System
--   1.1 Abstract
--   1.2 Introduction
--   1.3 Objectives
--   1.4 Swot Analysis
--   1.5 4w's and 1H
-- 2. Requirements
--   2.1 High level requirements
--   2.2 Low level requirements
-- 3. Block Diagram
--   3.1 Explaination on blocks
--   3.2 Sub System and its explaination
-- 4. Architecture
--   4.1 UML Diagram
--   4.2 Use case Structural Diagram
--   4.3 Flow Chart
-- 5. Advantages And Disadvantages
--   5.1 Advantages
--   5.2 Disadvantages
-- 6. Applications
+# Table of contents
+1. About Smart Home Automation System
+    * [1.1 Abrstact](#11-abstract)
+    * [1.2 Introduction](#12-introduction)
+    * [1.3 Objectives](#13-objectives)
+    * [1.4 SWOT Analysis](#14-swot-analysis)
+    * [1.5 4W & 1H](#15-4w--1h)
+2. Requirements
+    * [2.1 High Level requirements](#21-high-level-requirements)
+    * [2.2 Low Level requirements](#22-low-level-requirements)
+3. Block Diagrams
+    * [3 Block Diagram](#3-block-diagrams)
+    * [3.1 Block Diagram of Smart Home Automation System](#31-block-diagram-of-smart-home-automation-system)
+    * [3.2 Block Diagram of subsystem](#32-block-diagram-of-subsystem)
+   
+4. Architecture
+   * [4.1 UML Diagram](#41-uml-diagram)
+   * [4.2 Use Case Structural Diagram](#42-use-case-structural-diagram)
+   *  [4.3 Flow Chart](#43-flow-chart)
+   *  [4.4 Simulation](#44-simulation)
+5. Test plans
+   *  [5.1 High level test ](#51-high-level-test)
+   * [5.2 Low level test ](#52-low-level-test)
+6. [Advantages and Disadvantages](#6-advantages-and-disadvantages)
+   *  [6.1 Advantages](#61-advantages)
+   *  [6.2 Disadvantages](#62-disadvantages)
+7. [Applications](#7-applications)
 
-# Abstract
+8. [Reference](#8-reference)
+
+# 1. About Smart Home Automation System
+
+## 1.1 Abstract
 - With advancement of technology things are becoming simpler and easier for us.  
 - Automation plays an increasingly important role in the world economy and in daily experience. 
 - Automatic systems are being preferred over manual system. 
 
-# Introduction:
+## 1.2 Introduction
 
 - Automation is control of the electrical or electronic device within area or remotely.
 - The project deals with the safety sensors such as --> Earthquake sensor, Temprature sensor, Smoke sensor, Motion Sensor.
 - When the sensors detect the input they perform the required operation and alert the person 
 
-# Objectives
+## 1.3 Objectives
 - to improve the quality of life and convenience in the home.
 - Different models to be designed for security purpose.
+[Back to Contents](#table-of-contents)
 
-# Swot Analysis
+---
+
+## 1.4 Swot Analysis
 ## Strengths
 - Effecient and Intelligent energy saving Techniques.
 - Safety and Security will be increased.
@@ -59,7 +74,11 @@
 - Data Manipulation
 - Identity Theft
 
-# 4W's And 1H
+[Back to Contents](#table-of-contents)
+
+---
+
+# 1.5 4W & 1H
 
 ## Who??? 
 - This system is used by consumers for automizing their home.
@@ -72,9 +91,13 @@
 ## How??? 
 - This system is human machine interface which senses the input  and Displays the output and alerts the person
 
-# Requirements
+[Back to Contents](#table-of-contents)
 
-## High level requirements:
+---
+
+## 2. Requirements
+
+### 2.1 High Level requirements
 
 |RID	|DESCRIPTION |
 |---- |----|
@@ -84,7 +107,7 @@
 |HLR4	|System shall sense the environmental changes  |
 |HLR5 |System shall sense the temprature |
 
-## Low Level Requirement:
+### 2.2 Low Level requirements
 
 |RID	|DESCRIPTION |
 |---- |----|
@@ -93,8 +116,14 @@
 |LLR3	|viberation value shall be displayed if earthquake sensor detects |
 |LLR4	|led shall be turned on if earthquake sensor doesnot detect |
 |LLR5	|Exhaust fan shall be turned on if smoke is detected |
+---
 
-# Block Diagram of Smart Home Automation System
+[Back to Contents](#table-of-contents)
+
+---
+
+# 3 Block Diagrams
+## 3.1 Block Diagram of Smart Home Automation System
 
 ![home automation](https://user-images.githubusercontent.com/82751022/156934809-92154d70-95ee-44c0-91b7-f1938c739059.png)
 
@@ -106,13 +135,13 @@
 - It does majority of the work starting from taking the data or instructions in, processing it according the program written and finally provide the output to complete the required function.
 
 ## PIR Sensor
-![image](https://user-images.githubusercontent.com/82751022/157259274-8f8a5581-78fe-4bca-9aaa-74eb6f48f1da.png)
+![image](https://user-images.githubusercontent.com/82751022/157265478-771f025b-5cd6-43a5-b541-23d87944edea.png)
 
 - An Passive infrared (PIR) sensor is an electronic device that measures and detects infrared radiation in its surrounding environment.
 - In the above project the PIR sensor is used to detect the motion around the surrounding and provide the output
 
 ## Smoke Sensor
-![image](https://user-images.githubusercontent.com/82751022/157259384-defc393f-da03-4142-9203-efc970b39d2c.png)
+![image](https://user-images.githubusercontent.com/82751022/157265844-c93d2efc-e316-4262-b4da-b75a0f5e75ed.png)
 
 - The smoke sensor is used to detect the smoke around the surrounding and perform the necessary actions
 
@@ -146,10 +175,12 @@
 
 - Used for the indication of output.
 
+[Back to Contents](#table-of-contents)
+
+---
 
 
-
-## Block Diagram Of Subsystem
+## 3.2 Block Diagram Of Subsystem
 ![Power supply](https://user-images.githubusercontent.com/82751022/156935919-8305d7c7-a202-4e31-a77e-b7f8a7ba40ed.png)
 
 ## Power Supply
@@ -164,27 +195,43 @@
 
 - This device is used to convert the incoming 5v Ac to 5V dc (ac to dc converter).
 ## Voltage Regulator: 
-![image](https://user-images.githubusercontent.com/82751022/157261413-98d1462d-3075-4498-9194-f6d6ce694dd4.png)
+![image](https://user-images.githubusercontent.com/82751022/157265075-b365713d-9b64-44a7-9e55-aa2969f962b8.png)
 
 As we Know that the output of the rectifier is a Pulsating dc so voltage regulator is used to make the pulsating dc voltage to constant dc voltage.
 
-# Architecture
 
-## UML Diagram
+[Back to Contents](#table-of-contents)
+
+---
+
+
+# 4 Architecture
+
+## 4.1 UML Diagram
+
 ![uml](https://user-images.githubusercontent.com/82751022/156936095-f216ed84-839f-4624-9a8a-1045e806ad64.png)
 
-## Use Case Structural Diagram
+
+## 4.2 Use Case Structural Diagram
+
 ![use case structure](https://user-images.githubusercontent.com/82751022/155834194-66bffb5e-c48e-42e2-b609-7483dad64bf7.png)
 
-## Flow Chart
+## 4.3 Flow Chart
+
 ![complete flow](https://user-images.githubusercontent.com/82751022/156937127-dd44c1c9-44df-4278-81f1-58052cff4067.png)
 
-## Simulation
+## 4.4 Simulation
+
 ![simulation circuit](https://user-images.githubusercontent.com/82751022/157204997-c70996e7-af08-49cd-bf52-96169a13c5dd.PNG)
 
-# Test Plan
 
-## High Level Test:
+[Back to Contents](#table-of-contents)
+
+---
+
+# 5 Test Plan
+
+## 5.1 High Level Test:
 
 |Test id |Description |expected i/p |expected o/p |Actuall o/p |pass/fail |            
 |---- |---- |---- |---- |----|----|
@@ -195,7 +242,7 @@ As we Know that the output of the rectifier is a Pulsating dc so voltage regulat
        
 
 
-## Low Level Test:
+## 5.2 Low Level Test:
 
 ## Low Level Test for Motion Sensor (Using LED)
 
@@ -238,17 +285,30 @@ As we Know that the output of the rectifier is a Pulsating dc so voltage regulat
 |LLT4.1 |test for Earthquake sensor | When the  value of Vibration is zero |NO Vibration|NO Vibration |pass |
 |LLT4.2 |test for Earthquake sensor | When the Vibration sensor gives certain value |vibration=value of sensor |vibration=value of sensor |pass |
 
+[Back to Contents](#table-of-contents)
+
+---
 
 # Tested Output on Motion Sensor
+
 ![motion sensor](https://user-images.githubusercontent.com/82751022/157091669-edd2fcd0-271a-45c6-917e-501ee4e1fb2d.PNG)
+
 # Tested Output on Temprature Sensor
+
 ![temprature](https://user-images.githubusercontent.com/82751022/157091724-0e3a3bd0-e4e4-4d7d-a7ba-c6df84f10a32.PNG)
+
 # Tested Output on Smoke Sensor at value=0 (Exhaust fan is OFF)
+
 ![smoke 0](https://user-images.githubusercontent.com/82751022/157091760-42fb500c-95cc-4c2e-9e0f-7a1afdb904f8.PNG)
+
 # Tested Output on Smoke Sensor at value=0 (Exhaust fan is OFF)
+
 ![smoke high](https://user-images.githubusercontent.com/82751022/157091769-3d11f256-4b74-45ae-bade-991c5a38e259.PNG)
+
 # Tested Output on Earthquake Sensor at value=0
+
 ![no viberation](https://user-images.githubusercontent.com/82751022/157091859-55ad7dfa-cd40-4614-b5ce-78633a9f7269.PNG)
+
 # Tested Output on Earthquake Sensor at certain vibration value
 ![viberation](https://user-images.githubusercontent.com/82751022/157091829-67ca4f63-aa46-4480-b519-85c24af1e82c.PNG)
 ![33vib](https://user-images.githubusercontent.com/82751022/157091929-d8017f32-a63d-4689-a52c-cdcc6ebe5201.PNG)
@@ -259,27 +319,61 @@ As we Know that the output of the rectifier is a Pulsating dc so voltage regulat
 
 https://user-images.githubusercontent.com/82751022/157106842-c92393d4-71bf-48aa-b6c8-61877b203b48.m
 
-                                                            
-# Advantages And Disadvantages
+[Back to Contents](#table-of-contents)
 
-## Advantages
+---
+
+                                                            
+# 6 Advantages And Disadvantages
+
+## 6.1 Advantages
 - Easy to use
 - Safety and Security is increased
 - Provides facility to monitor and control multiple devices
 
-## Disadvantages
+## 6.2 Disadvantages
 - Installiation is costly
 - Works only when the object or user is in the range of sensor
 - Continuous Power supply is required
 
-# Applications
+[Back to Contents](#table-of-contents)
+
+---
+
+# 7 Applications
 - Industries,  Residential , Commercial Purpose
 - Smart Home Appliances.
 - safety and security, etc.
-## Reference
+
+[Back to Contents](#table-of-contents)
+
+---
+## 8 Reference
 - https://www.homemade-circuits.com/pir-sensor-datasheet-pinout-specification-working
 - https://www.signaguard.com/seismic-sensor
 - https://www.arduino.cc
+
+[Back to Contents](#table-of-contents)
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
  
  
 
