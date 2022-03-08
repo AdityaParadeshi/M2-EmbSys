@@ -130,9 +130,9 @@
 
 
 ## Block Diagram Of Subsystem
+![Power supply](https://user-images.githubusercontent.com/82751022/156935919-8305d7c7-a202-4e31-a77e-b7f8a7ba40ed.png)
 
 ## Power Supply
-![Power supply](https://user-images.githubusercontent.com/82751022/156935919-8305d7c7-a202-4e31-a77e-b7f8a7ba40ed.png)
 
 
 
@@ -221,7 +221,7 @@ As we Know that the output of the rectifier is a Pulsating dc so voltage regulat
 ![temprature](https://user-images.githubusercontent.com/82751022/157091724-0e3a3bd0-e4e4-4d7d-a7ba-c6df84f10a32.PNG)
 # Tested Output on Smoke Sensor at value=0 (Exhaust fan is OFF)
 ![smoke 0](https://user-images.githubusercontent.com/82751022/157091760-42fb500c-95cc-4c2e-9e0f-7a1afdb904f8.PNG)
-# Tested Output on Smoke Sensor at certain value (Exhaust fan is ON)
+# Tested Output on Smoke Sensor at value=0 (Exhaust fan is OFF)
 ![smoke high](https://user-images.githubusercontent.com/82751022/157091769-3d11f256-4b74-45ae-bade-991c5a38e259.PNG)
 # Tested Output on Earthquake Sensor at value=0
 ![no viberation](https://user-images.githubusercontent.com/82751022/157091859-55ad7dfa-cd40-4614-b5ce-78633a9f7269.PNG)
