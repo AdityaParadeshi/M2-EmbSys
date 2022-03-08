@@ -88,12 +88,11 @@
 
 |RID	|DESCRIPTION |
 |---- |----|
-|LLR1	|Microcontroller shall be used for automation |
-|LLR2	|led shall be turned on and displayed if Motion sensor (PIR) detects |
-|LLR3	|temprature shall be displayed if temprature is sensed |
-|LLR4	|viberation value shall be displayed if earthquake sensor detects |
-|LLR5	|led shall be turned on if earthquake sensor doesnot detect |
-|LLR6	|Exhaust fan shall be turned on if smoke is detected |
+|LLR1	|led shall be turned on and displayed if Motion sensor (PIR) detects |
+|LLR2	|temprature shall be displayed if temprature is sensed |
+|LLR3	|viberation value shall be displayed if earthquake sensor detects |
+|LLR4	|led shall be turned on if earthquake sensor doesnot detect |
+|LLR5	|Exhaust fan shall be turned on if smoke is detected |
 
 # Block Diagram of Smart Home Automation System
 
