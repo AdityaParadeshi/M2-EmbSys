@@ -155,6 +155,10 @@ As we Know that the output of the rectifier is a Pulsating dc so voltage regulat
 ## Flow Chart
 ![complete flow](https://user-images.githubusercontent.com/82751022/156937127-dd44c1c9-44df-4278-81f1-58052cff4067.png)
 
+## Simulation
+![simulation circuit](https://user-images.githubusercontent.com/82751022/157204997-c70996e7-af08-49cd-bf52-96169a13c5dd.PNG)
+
+
 
 
 # Advantages And Disadvantages
