@@ -3,9 +3,6 @@
 # Smart Home Automation System
 # Badges
 
-## Codiga
-
-![Code grade](https://api.codiga.io/project/30954/score/svg) ![Code grade](https://api.codiga.io/project/30954/status/svg)
 
 ## Codacy
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2b49b6bfee5448f2a9b08a21617a5a50)](https://www.codacy.com/gh/AdityaParadeshi/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AdityaParadeshi/M2-EmbSys&amp;utm_campaign=Badge_Grade)
