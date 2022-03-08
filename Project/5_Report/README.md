@@ -236,6 +236,13 @@ As we Know that the output of the rectifier is a Pulsating dc so voltage regulat
 https://user-images.githubusercontent.com/82751022/157106842-c92393d4-71bf-48aa-b6c8-61877b203b48.mp4
 
 
+# Demonstration :
+
+https://user-images.githubusercontent.com/82751022/157208141-fa46909e-c4b7-4893-bad5-cf9da9b23b8f.mp4
+
+
+
+
 
 
 
