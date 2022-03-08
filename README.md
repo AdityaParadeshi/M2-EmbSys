@@ -1,5 +1,6 @@
-# M2-EmbSys
 
+
+# Smart Home Automation System
 # Badges
 
 ## Codiga
